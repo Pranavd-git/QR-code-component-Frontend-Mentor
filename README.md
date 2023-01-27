@@ -14,7 +14,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-https://i.ibb.co/r4vFm0r/Fire-Shot-Capture-002-Frontend-Mentor-QR-code-component-pranavd-git-github-io.png
+![image](https://i.ibb.co/r4vFm0r/Fire-Shot-Capture-002-Frontend-Mentor-QR-code-component-pranavd-git-github-io.png?)
 
 ### Links
 
