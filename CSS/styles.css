@@ -1,43 +1,37 @@
 body{
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    min-height: 90vh;
-    font-size: 15px;
-    background-color: hsl(212, 45%, 89%);
-}
+      align-items: center;
+      background-color: hsl(212, 45%, 89%);
+      display: flex;
+      flex-direction: column;
+      font-size: 15px;
+      justify-content: center;
+      min-height: 90vh;
+  }
 img{
-    width: 100%;
-    border-radius: 1rem;
-}
-.main-content{
-    text-align: center;
-    width: 280px;
-    border-radius: 1rem;
-    padding: 0.8rem;
-    background-color: hsl(0, 0%, 100%);
-    box-shadow: 5px 5px 5px hsl(220, 15%, 55%);
-}
+      border-radius: 1rem;
+      width: 100%;
+  }
+
 h3{
-    margin: 1rem 1rem auto 1rem;
-    font-family: 'Outfit', sans-serif;
-    font-weight: 700;
-}
+      font-family: 'Outfit', sans-serif;
+      font-weight: 700;
+      margin: 1rem 1rem auto 1rem;
+  }
 p{
-    margin: 1rem 1rem 1rem 1rem;
-    font-family: 'Outfit', sans-serif;
-    font-weight: 400;
-    color: hsl(220, 15%, 55%);
-}
+      color: hsl(220, 15%, 55%);
+      font-family: 'Outfit', sans-serif;
+      font-weight: 400;
+      margin: 1rem 1rem 1rem 1rem;
+  }
+.main-content{
+      background-color: hsl(0, 0%, 100%);
+      border-radius: 1rem;
+      box-shadow: 5px 5px 5px hsl(220, 15%, 55%);
+      padding: 0.8rem;
+      text-align: center;
+      width: 280px;
+  }  
 .attribution{
-    position: absolute;
-    bottom: 10px;
-}
-a{
-    text-decoration: none;
-    font-style: italic;
-}
-a:hover{
-    color: red;
-}
+      bottom: 10px;
+      position: absolute;
+  }
