@@ -133,6 +133,12 @@
       font-size: 16px;
       width: 35vw;
     }
+    .attribution {
+    display: block;
+    position: absolute;
+    bottom: 1rem;
+    text-align: center;
+    }
   }
 
   @media screen and (min-width: 600px) and (max-width: 768px) {
@@ -151,6 +157,12 @@
     .description {
       font-size: 16px;
       width: 45vw;
+    }
+    .attribution {
+    display: block;
+    position: absolute;
+    bottom: 1rem;
+    text-align: center;
     }
   }
   
@@ -171,6 +183,12 @@
       font-size: 16px;
       width: 65vw;
     }
+    .attribution {
+    display: block;
+    position: absolute;
+    bottom: 1rem;
+    text-align: center;
+    }
   }
   @media screen and (min-width: 360px) and (max-width: 480px){
     body, html{
@@ -189,4 +207,10 @@
         font-size: 16px;
         width: 75vw;
       }
+    .attribution {
+    display: block;
+    position: absolute;
+    bottom: 1rem;
+    text-align: center;
+    }
   }
