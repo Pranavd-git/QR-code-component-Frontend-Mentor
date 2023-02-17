@@ -13,8 +13,11 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Overview
 
 ### Screenshot
+Desktop:
+![image](https://i.ibb.co/H24s5w2/Screen-Shot-2023-02-17-at-18-51-14.png?)
 
-![image](https://i.ibb.co/r4vFm0r/Fire-Shot-Capture-002-Frontend-Mentor-QR-code-component-pranavd-git-github-io.png?)
+Mobile:
+![image](https://i.ibb.co/8xT8bcc/Screen-Shot-2023-02-17-at-18-59-34.png?)
 
 ### Links
 
